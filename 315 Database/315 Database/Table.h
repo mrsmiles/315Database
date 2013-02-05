@@ -19,7 +19,7 @@ public:
 	void insertRecord(Record r);
 
 	vector<Attribute> getAttributes() { return attributes; }
-	int getSize(int size) { return records.size(); }
+	int getSize() { return records.size(); }
 
 
 	void renameAttribute(string oldname, string newname);
