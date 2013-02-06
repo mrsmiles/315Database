@@ -11,6 +11,12 @@ private:
 public:
 	Attribute();
 	Attribute(string name, char type);
+	
+	string getName();
+	char getType();
+	
+	void setName(string name);
+	void setType(char type);	
 };
 
 #endif
