@@ -6,5 +6,8 @@
 315 Database/315 Database.sdf
 315 Database/315 Database.v11.suo
 315 Database/315 Database/Debug/315 Database.log
-315 Database*/
-315 Database*/
+*.sdf
+*.suo
+*.log
+*.idb
+*.opensdf
