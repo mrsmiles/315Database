@@ -1,3 +1,5 @@
 # git ignore file
 315 Database/315 Database.opensdf
 315 Database/315 Database/Debug/vc110.idb
+315 Database/315 Database/Debug/315 Database.log
+315 Database/315 Database.v11.suo
