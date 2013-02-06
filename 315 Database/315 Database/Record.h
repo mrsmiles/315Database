@@ -7,10 +7,13 @@
 class Record
 {
 private:
-	vector<string> tuple;
+	vector<string> tuples;
 public:
 	Record();
 	Record(vector<string> data);
+	
+	string getTuple(int index);
+	void setTuple(int index, string newdata);
 };
 
 #endif
